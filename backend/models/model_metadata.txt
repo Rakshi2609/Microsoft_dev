@@ -1,0 +1,9 @@
+Model Metadata
+==============
+
+model_type: Gradient Boosting
+f1_score: 1.0
+accuracy: 1.0
+cv_mean: 0.9916339869281046
+cv_std: 0.016732026143790834
+classes: ['Low', 'Medium', 'High']
