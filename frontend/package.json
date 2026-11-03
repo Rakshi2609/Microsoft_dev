@@ -21,8 +21,8 @@
     "vite": "^5.0.8"
   },
   "scripts": {
-    "dev": "node init && vite",
-    "build": "node init && vite build",
+    "dev": "vite",
+    "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint src --ext js,jsx"
   },
